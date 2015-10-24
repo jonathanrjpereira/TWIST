@@ -73,7 +73,7 @@ char *dtostrf (double val, signed char width, unsigned char prec, char *sout)
 }
 //Twitter Message
 void tweetMessage() {
-  Twitter twitter("3679211658-4gncd9qTnTWqgu8HyUV6VeJc6hqsMjC3197kx7j");   //Twitter Token
+  Twitter twitter("Enter the token here");   //Twitter Token
 
   humidity();
   float humid;
