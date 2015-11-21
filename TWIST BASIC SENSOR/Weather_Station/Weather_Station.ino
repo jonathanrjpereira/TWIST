@@ -1,3 +1,8 @@
+/*
+ * Written by Jonathan Pereira on 24th October 2015 for public domain.
+ * Manual Type-Casting block of code contributed by Nathan Neal Dmello.
+*/
+
 #include <SPI.h>
 #include <Ethernet.h>
 #include <Twitter.h>
