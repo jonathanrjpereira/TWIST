@@ -1,4 +1,0 @@
-The TWIST basic sensor file contains the code and schematic for the 3 basic sensors: 
-SL-HS-220(Temperature & Humidity)
-YL-83(Rain Sensor)
-MQ2(Combustible Gas Sensor) 
